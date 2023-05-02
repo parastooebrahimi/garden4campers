@@ -13,6 +13,7 @@ window.matchMedia = jest.fn().mockImplementation((query) => {
     removeListener: jest.fn(),
   };
 });
+
 describe("Home component", () => {
   const currentUser = useCurrentUser();
   it("renders without errors", () => {
