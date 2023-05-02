@@ -63,3 +63,13 @@ npm run test -- --coverage
 11. Running Storybook can provide a better understanding of customized UI components, although it was beyond my time constraints for this challenge.
 
 12. Thank you for reviewing my application.
+
+## Questions you have asked
+
+1.  How would you go about managing React components within a team?
+
+To manage React components within a team, use a consistent file structure, a component library, version control, code reviews, automated testing, and documentation. This ensures organization, consistency, and scalability of the codebase for better collaboration and high-quality applications.
+
+2. Pick one major technical challenge you've had in the past and explain how you overcame
+
+One specific technical challenge I faced was optimizing the performance of a data-intensive web application. To overcome this, I used techniques such as code optimization, caching, and load balancing to reduce server load, improve response times, and provide a better user experience.
